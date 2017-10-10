@@ -1,0 +1,20 @@
+{
+  "name": "react-day-picker-input",
+  "version": "0.1.0",
+  "description": "This packages extends React Day Picker and gives a better version of Day Picker Input.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Error: no test specified' && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/balramsinghindia/react-day-picker-input.git"
+  },
+  "keywords": [
+    "React Day Picker Input",
+    "React Input Calender",
+    "React Date Picker"
+  ],
+  "author": "Balram Singh <singhbalram786@gmail.com> (http://balramsingh.in/)",
+  "license": "BSD-2-Clause",
+}
